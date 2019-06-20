@@ -1,0 +1,2 @@
+# lamp1
+xxxx
